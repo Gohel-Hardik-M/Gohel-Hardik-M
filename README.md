@@ -74,7 +74,7 @@ Instagram-style platform where only universities can post events.
 - University event posting  
 - Admin dashboard & approval system
 
-[🔗 View Project](#) | [📁 Source Code](#)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/University-Event-Portal) | [📁 Source Code](https://github.com/Gohel-Hardik-M/University-Event-Portal)
 
 ---
 
