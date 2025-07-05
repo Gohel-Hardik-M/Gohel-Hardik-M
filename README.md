@@ -88,8 +88,8 @@ Instagram-style platform where only universities can post events.
 
 ## 📈 GitHub Stats
 
-![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gohel-Hardik-M&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohel-Hardik-M&layout=compact&theme=radical)
 
 ---
 
