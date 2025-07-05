@@ -48,7 +48,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 - Visualizations (pie charts, bar graphs)  
 - Category-wise analysis & auto-generated saving tips
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) | [📁 Source Code](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) | [📁 Source Code](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning/tree/main/App)
 
 ---
 
