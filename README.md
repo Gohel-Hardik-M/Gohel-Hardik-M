@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hardik Gohel! 
+# 👋 Hi there, I'm Hardik Gohel!   
 
 🎓 Computer Engineering Student | 💻 Aspiring Data Scientist | 📱 Mobile App Developer
 
