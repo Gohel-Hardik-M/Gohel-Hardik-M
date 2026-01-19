@@ -56,7 +56,7 @@ hgh
 
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning)
-[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
 ---
 ### 🧠 Resume Analyzer (NLP)
 An ML-based tool to analyze resumes and match with job descriptions.
