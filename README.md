@@ -52,11 +52,17 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 ---
 ### Face Recognition Login & Register System
-hgh
+ A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
 
+ **Tech:** Python, Flask, FaceNet (facenet_keras.h5), HTML, CSS 
+ **Features:**
+ -User registration using face capture
+ -Face-based login authentication
+ -Face embedding generation using FaceNet
+ -Secure matching of face embeddings
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning)
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
+
 ---
 ### 🧠 Resume Analyzer (NLP)
 An ML-based tool to analyze resumes and match with job descriptions.
