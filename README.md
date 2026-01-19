@@ -48,8 +48,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 - Visualizations (pie charts, bar graphs)  
 - Category-wise analysis & auto-generated saving tips
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) | [📁 Source Code](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning/tree/main/App)
-
+[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) 
 ---
 ### Face Recognition Login & Register System
  A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
@@ -73,7 +72,7 @@ An ML-based tool to analyze resumes and match with job descriptions.
 - NLP-based keyword match  
 - Fit score prediction & suggestions
 
-[🔗 View Project](#) | [📁 Source Code](#)
+[🔗 View Project](#) 
 
 ---
 
@@ -86,8 +85,7 @@ Instagram-style platform where only universities can post events.
 - University event posting  
 - Admin dashboard & approval system
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/University-Event-Portal) | [📁 Source Code](https://github.com/Gohel-Hardik-M/University-Event-Portal)
-
+[🔗 View Project](https://github.com/Gohel-Hardik-M/University-Event-Portal) 
 ---
 
 ## 🏆 Achievements & Certifications
