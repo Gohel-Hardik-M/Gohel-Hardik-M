@@ -51,7 +51,13 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 [🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) | [📁 Source Code](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning/tree/main/App)
 
 ---
+### Face Recognition Login & Register System
+hgh
 
+
+[🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System)
+---
 ### 🧠 Resume Analyzer (NLP)
 An ML-based tool to analyze resumes and match with job descriptions.
 
