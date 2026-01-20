@@ -95,7 +95,7 @@ This project uses machine learning to predict the likelihood of diabetes based o
 
 ![Hardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gohel-Hardik-M&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gohel-Hardik-M&layout=compact&theme=radical)
-![Contribution Streak](https://github-readme-stats.vercel.app/api/streak-stats.demolab.com?user=Gohel-Hardik-M&theme=radical&hide_border=false)
+
 
 
 
