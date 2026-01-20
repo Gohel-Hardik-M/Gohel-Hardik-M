@@ -53,7 +53,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 ### Face Recognition Login & Register System
  A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
 
- **Tech:** Python, Flask, FaceNet (facenet_keras.h5), HTML, CSS 
+ **Tech:** Python, Flask, MySql ,FaceNet (facenet_keras.h5), HTML, CSS 
  **Features:**
  - User registration using face capture
  - Face-based login authentication
