@@ -68,7 +68,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 ###  🏠 House Price Prediction 
  simple **House Price prediction** using machine learning and python. 
  
- **Tech:** Python , Flask , Scikit-learn , MySQL 
+ **Tech:** Python , Flask , Scikit-learn , HTML , CSS
  **About:**
  - Simple House Price Predictions based on user inputs
  - built and trained ML model to predict the house price based on user inputs like bedrooms , garage , area of house , garden etc.
@@ -76,6 +76,16 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Simple-House-Price-Predictor---Using-Machine-Learning-)
 
+--
+## 🩺 Diabetes Prediction Project
+This project uses machine learning to predict the likelihood of diabetes based on health data.
+
+**Tech:** Python , Flask , Scikit-learn , HTML , CSS
+
+**About:**
+- Health Risk Prediction – Predicts the likelihood of diabetes based on medical attributes (e.g., glucose level, BMI).
+
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Simple-House-Price-Predictor---Using-Machine-Learning-)
 
 
 ## 🏆 Achievements & Certifications
