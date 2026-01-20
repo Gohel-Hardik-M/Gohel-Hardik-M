@@ -50,7 +50,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) 
 ---
-### Face Recognition Login & Register System
+### 🔐👤 Face Recognition Login & Register System
  A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
 
  **Tech:** Python, Flask, MySql ,FaceNet (facenet_keras.h5), HTML, CSS 
