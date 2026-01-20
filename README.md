@@ -88,7 +88,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
  - built and trained ML model to predict the house price based on user inputs like bedrooms , garage , area of house , garden etc.
 
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Simple-House-Price-Predictor---Using-Machine-Learning-)
 
 
 
