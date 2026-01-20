@@ -85,7 +85,7 @@ This project uses machine learning to predict the likelihood of diabetes based o
 **About:**
 - Health Risk Prediction – Predicts the likelihood of diabetes based on medical attributes (e.g., glucose level, BMI).
 
-[🔗 View Project](https://github.com/Gohel-Hardik-M/Simple-House-Price-Predictor---Using-Machine-Learning-)
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Diabetes-Predictor---Machine-Learning)
 
 
 ## 🏆 Achievements & Certifications
