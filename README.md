@@ -64,7 +64,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
 
---
+---
 ###  🏠 House Price Prediction 
  simple **House Price prediction** using machine learning and python. 
  
@@ -76,7 +76,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Simple-House-Price-Predictor---Using-Machine-Learning-)
 
---
+---
 ## 🩺 Diabetes Prediction Project
 This project uses machine learning to predict the likelihood of diabetes based on health data.
 
@@ -87,12 +87,7 @@ This project uses machine learning to predict the likelihood of diabetes based o
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Diabetes-Predictor---Machine-Learning)
 
-
-## 🏆 Achievements & Certifications
-
-- 🎯 Registered in **Adobe Hackathon 2025**
-- 🧠 Participated in **GSFC Hackathon** – Digital Lab Transformation
-- 📜 Completed Python, Flask, ML certifications from Infosys-Springboard
+---
 
 ---
 
