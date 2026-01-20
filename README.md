@@ -49,20 +49,6 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 - Category-wise analysis & auto-generated saving tips
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/HOME-EXPENSE-TRACKER-Using-Machine-Learning) 
----
-### 🔐👤 Face Recognition Login & Register System
- A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
-
- **Tech:** Python, Flask, MySql ,FaceNet (facenet_keras.h5), HTML, CSS 
- **Features:**
- - User registration using face capture
- - Face-based login authentication
- - Face embedding generation using FaceNet
- - Secure matching of face embeddings
-
-[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
-
- 
 
 ---
 
@@ -79,7 +65,7 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
 
 --
-### House Price Prediction 
+###  🏠 House Price Prediction 
  simple **House Price prediction** using machine learning and python. 
  
  **Tech:** Python , Flask , Scikit-learn , MySQL 
