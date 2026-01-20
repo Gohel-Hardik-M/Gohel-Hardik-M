@@ -41,7 +41,7 @@ I'm a passionate developer from 🇮🇳 India, focused on building smart applic
 ### 🔥 Home Expense Tracker with ML
 A smart web app to manage and analyze monthly expenses using ML and predictive insights.
 
-**Tech:** Python, Flask, SQLite, Scikit-learn, Matplotlib  
+**Tech:** Python, Flask, SQL, Scikit-learn, Matplotlib  
 **Features:**
 - Add/view expenses  
 - ML-based monthly prediction  
@@ -65,6 +65,32 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
  
 
 ---
+
+### 🔐👤 Face Recognition Login & Register System
+ A secure authetication system that allows users to **register & login using facial recognition** instead of traditional passwords.
+
+ **Tech:** Python, Flask, MySql ,FaceNet (facenet_keras.h5), HTML, CSS 
+ **Features:**
+ - User registration using face capture
+ - Face-based login authentication
+ - Face embedding generation using FaceNet
+ - Secure matching of face embeddings
+
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
+
+--
+### House Price Prediction 
+ simple **House Price prediction** using machine learning and python. 
+ 
+ **Tech:** Python , Flask , Scikit-learn , MySQL 
+ **About:**
+ - Simple House Price Predictions based on user inputs
+ - built and trained ML model to predict the house price based on user inputs like bedrooms , garage , area of house , garden etc.
+
+
+[🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
+
+
 
 ## 🏆 Achievements & Certifications
 
