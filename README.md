@@ -62,30 +62,8 @@ A smart web app to manage and analyze monthly expenses using ML and predictive i
 
 [🔗 View Project](https://github.com/Gohel-Hardik-M/Face-Recognition-Login-Register-System-)
 
----
-### 🧠 Resume Analyzer (NLP)
-An ML-based tool to analyze resumes and match with job descriptions.
+ 
 
-**Tech:** Python, NLP, Scikit-learn, Flask  
-**Features:**  
-- Text extraction from PDF  
-- NLP-based keyword match  
-- Fit score prediction & suggestions
-
-[🔗 View Project](#) 
-
----
-
-### 📊 Laravel-Based University Event Portal
-Instagram-style platform where only universities can post events.
-
-**Tech:** Laravel, PHP, MySQL, Bootstrap  
-**Features:**  
-- Student login & feed  
-- University event posting  
-- Admin dashboard & approval system
-
-[🔗 View Project](https://github.com/Gohel-Hardik-M/University-Event-Portal) 
 ---
 
 ## 🏆 Achievements & Certifications
