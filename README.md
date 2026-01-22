@@ -9,7 +9,7 @@
 I'm a passionate developer from 🇮🇳 India, focused on building smart applications that solve real-world problems. I’m currently exploring and building projects in:
 
 - 🔍 Data Science, Machine Learning & Gen AI     
-- 📊 Artificial Intelligence & Deep Learning  
+- 📊 Artificial Intelligence & Deep Learning   
 - 🌐 Full Stack Development using **Laravel + PHP + MySQL**  
 - 💼 Backend development using **Flask**, **.NET**, and **Firebase**
 
