@@ -11,7 +11,6 @@ I'm a passionate developer from 🇮🇳 India, focused on building smart applic
 - 🔍 Data Science, Machine Learning & Gen AI     
 - 📊 Artificial Intelligence & Deep Learning  
 - 🌐 Full Stack Development using **Laravel + PHP + MySQL**  
-- 📱 Cross-platform Mobile Apps with **Flutter** and **Android**
 - 💼 Backend development using **Flask**, **.NET**, and **Firebase**
 
 
