@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Hardik Gohel!   
-  
+     
 🎓 Computer Engineering Student | 💻 Aspiring Data Scientist | Python Engineer
    
 ---
