@@ -2,7 +2,7 @@
        
 🎓 Computer Engineering Student | 💻 Aspiring Data Scientist | Python Engineer
    
----
+---     
      
 ## 🚀 About Me
 
